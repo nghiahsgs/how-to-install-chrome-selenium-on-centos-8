@@ -4,6 +4,7 @@ how to install chrome selenium on centos 8
 ## Install all essential packages
 ```
 sudo yum update
+optional
 sudo yum install -y unzip openjdk-8-jre-headless xvfb libxi6 libgconf-2-4
 ```
 
